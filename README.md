@@ -1,6 +1,10 @@
+<p align="center">
+<img src="/src/main/resources/static/AdminImage/logo3.png" width="50%">
+</p>
+
 # :camera: FamilyStory_Project
 ### 가족의 일상과 추억을 공유하는 패밀리 스토리 프로젝트
-<br>
+
 
 ### :seedling: 프로젝트 설명
 사진을 중심으로 가족의 일상과 추억을 공유할 수 있는 SNS형 웹 사이트입니다.
