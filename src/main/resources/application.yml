@@ -30,7 +30,7 @@ spring:
     host: smtp.gmail.com
     port: 587
     username: FamilyStory.mailservice@gmail.com
-    password: myFamily_team6!!
+    password: 
     properties:
       mail.smtp.auth: true
       mail.smtp.starttls.enable: true
